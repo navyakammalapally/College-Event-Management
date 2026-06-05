@@ -219,12 +219,14 @@ form{
     padding:12px;
 }
 
-.form-control::placeholder{
+.form-control::placeholder,
+textarea::placeholder{
     color:#d1d5db;
 }
 
 .form-control:focus,
-.form-select:focus{
+.form-select:focus,
+textarea:focus{
     background:rgba(255,255,255,0.18);
     color:white;
     box-shadow:0 0 10px #38bdf8;
@@ -271,6 +273,22 @@ form{
     transform:scale(1.05);
 }
 
+.accordion-item{
+    border:none;
+    border-radius:15px;
+    overflow:hidden;
+    margin-bottom:10px;
+}
+
+.accordion-button{
+    font-weight:600;
+}
+
+.accordion-button:not(.collapsed){
+    background:#2563eb;
+    color:white;
+}
+
 .modal-content{
     border-radius:20px;
 }
@@ -282,6 +300,10 @@ form{
 
 h1,h2,h3,h4,h5{
     font-weight:700;
+}
+
+hr{
+    border-color:rgba(255,255,255,0.3);
 }
 
 section{
@@ -299,6 +321,14 @@ footer{
 
 footer p{
     margin-bottom:0;
+}
+
+a{
+    transition:0.3s;
+}
+
+a:hover{
+    opacity:0.9;
 }
 
 #successMsg{
