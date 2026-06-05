@@ -59,7 +59,7 @@ body{
 .hero-section h1{
     font-size:4rem;
     font-weight:800;
-    color:#ffffff;
+    color:white;
     text-shadow:0 0 20px rgba(125,211,252,0.5);
 }
 
@@ -105,6 +105,7 @@ body{
 
 .glass-card img{
     height:240px;
+    width:100%;
     object-fit:cover;
     transition:0.5s;
 }
@@ -119,7 +120,6 @@ body{
 }
 
 .card-body p{
-    margin-bottom:10px;
     color:#f1f5f9;
 }
 
@@ -135,7 +135,6 @@ body{
     border-radius:40px;
     font-weight:bold;
     transition:0.3s;
-    min-width:120px;
 }
 
 .btn-custom:hover{
@@ -147,6 +146,7 @@ body{
 .carousel{
     border-radius:20px;
     overflow:hidden;
+    box-shadow:0 10px 25px rgba(0,0,0,0.35);
 }
 
 .carousel-img{
@@ -155,16 +155,22 @@ body{
 }
 
 .carousel-caption{
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.45);
     border-radius:15px;
     padding:15px;
 }
 
 form{
     background:rgba(255,255,255,0.08);
-    padding:30px;
-    border-radius:20px;
-    backdrop-filter:blur(10px);
+    padding:35px;
+    border-radius:25px;
+    backdrop-filter:blur(12px);
+    border:1px solid rgba(255,255,255,0.12);
+}
+
+.form-label{
+    color:white;
+    font-weight:600;
 }
 
 .form-control,
@@ -187,6 +193,15 @@ form{
     box-shadow:0 0 10px #38bdf8;
 }
 
+.form-select option{
+    color:black;
+}
+
+.alert{
+    border-radius:15px;
+    font-weight:600;
+}
+
 .table{
     background:white;
     border-radius:15px;
@@ -200,7 +215,9 @@ form{
 
 .gallery-img{
     height:280px;
+    width:100%;
     object-fit:cover;
+    border-radius:20px;
     transition:0.4s;
 }
 
@@ -210,17 +227,17 @@ form{
 
 .accordion-item{
     border:none;
-    border-radius:12px;
+    border-radius:15px;
     overflow:hidden;
-    margin-bottom:10px;
+    margin-bottom:12px;
 }
 
 .accordion-button{
     font-weight:600;
 }
 
-.alert{
-    border-radius:15px;
+.modal-content{
+    border-radius:20px;
 }
 
 section{
@@ -252,6 +269,21 @@ footer p{
     color:#38bdf8;
 }
 
+#successMsg{
+    animation:fadeIn 0.6s ease;
+}
+
+@keyframes fadeIn{
+    from{
+        opacity:0;
+        transform:translateY(15px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
 @media(max-width:768px){
 
     .hero-section{
@@ -272,5 +304,9 @@ footer p{
 
     .section-title{
         font-size:2rem;
+    }
+
+    form{
+        padding:25px;
     }
 }
