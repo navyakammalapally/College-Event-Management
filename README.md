@@ -127,31 +127,31 @@ College-Event-Management/
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.PNG)
 
 ### Events Page
 
-![Events Page](screenshots/events.png)
+![Events Page](screenshots/events.PNG)
 
 ### Registration Page
 
-![Registration Page](screenshots/registration.png)
+![Registration Page](screenshots/registration.PNG)
 
 ### Event Schedule Page
 
-![Schedule Page](screenshots/schedule.png)
+![Schedule Page](screenshots/schedule.PNG)
 
 ### Gallery Page
 
-![Gallery Page](screenshots/gallery.png)
+![Gallery Page](screenshots/gallery.PNG)
 
 ### FAQ Page
 
-![FAQ Page](screenshots/faq.png)
+![FAQ Page](screenshots/faq.PNG)
 
 ### Contact Page
 
-![Contact Page](screenshots/contact.png)
+![Contact Page](screenshots/contact.PNG)
 
 ---
 
@@ -159,9 +159,7 @@ College-Event-Management/
 
 Repository Link:
 
-https://github.com/your-username/college-event-management
-
-Replace the above URL with your actual GitHub repository link.
+https://github.com/navyakammalapally/College-Event-Management
 
 ---
 
