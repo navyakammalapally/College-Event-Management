@@ -1,8 +1,8 @@
-# College-Event-Management# 🎓 College Event Management System
+# College-Event-Management# College Event Management System
 
 A responsive and interactive College Event Management website developed using HTML, CSS, Bootstrap 5, and JavaScript.
 
-## 📌 Project Overview
+##  Project Overview
 
 The College Event Management System allows students to:
 
@@ -17,7 +17,7 @@ The website is fully responsive and designed using Bootstrap components with a m
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Home Page
 - Responsive Navbar
@@ -60,7 +60,7 @@ The website is fully responsive and designed using Bootstrap components with a m
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -69,7 +69,7 @@ The website is fully responsive and designed using Bootstrap components with a m
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 College-Event-Management/
 
@@ -95,35 +95,35 @@ College-Event-Management/
 
 │   ├── bg.avif
 
-│   ├── event1.jpg
+│   ├── 1.jpg
 
-│   ├── event2.jpg
+│   ├── 2.jpg
 
-│   ├── event3.jpg
+│   ├── 3.jpg
 
-│   ├── event4.jpg
+│   ├── 4.jpg
 
-│   ├── event5.jpg
+│   ├── 5.jpg
 
-│   ├── event6.jpg
+│   ├── 6.jpg
 
-│   ├── gallery1.jpg
+│   ├── coding.jpg
 
-│   ├── gallery2.jpg
+│   ├── cultural.jpg
 
-│   ├── gallery3.jpg
+│   ├── expo.jpg
 
-│   ├── gallery4.jpg
+│   ├── quiz.jpg
 
-│   ├── gallery5.jpg
+│   ├── hackathon.avif
 
-│   └── gallery6.jpg
+│   └── poster.avif
 
 └── README.md
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 
