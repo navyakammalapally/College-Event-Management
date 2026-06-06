@@ -155,7 +155,7 @@ College-Event-Management/
 
 ---
 
-## 🔗 GitHub Repository
+## GitHub Repository
 
 Repository Link:
 
@@ -165,6 +165,6 @@ Replace the above URL with your actual GitHub repository link.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed as part of a Bootstrap Web Development Project.
