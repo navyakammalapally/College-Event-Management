@@ -101,23 +101,23 @@ College-Event-Management/
 
 │   ├── 3.jpg
 
-│   ├── 4.jpg
+│   ├── 4.webp
 
-│   ├── 5.jpg
+│   ├── 5.avif
 
 │   ├── 6.jpg
 
-│   ├── coding.jpg
+│   ├── coding.avif
 
-│   ├── cultural.jpg
+│   ├── cultural.png
 
-│   ├── expo.jpg
+│   ├── expo.webp
 
-│   ├── quiz.jpg
+│   ├── quiz.avif
 
 │   ├── hackathon.avif
 
-│   └── poster.avif
+│   └── poster.jpg
 
 └── README.md
 
