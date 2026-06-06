@@ -1,4 +1,4 @@
-## College Event Management System
+# College Event Management System
 
 A responsive and interactive College Event Management website developed using HTML, CSS, Bootstrap 5, and JavaScript.
 
