@@ -155,14 +155,9 @@ College-Event-Management/
 
 ---
 
-## GitHub Repository
+## Live Demo
 
-Repository Link:
-
-https://github.com/navyakammalapally/College-Event-Management
+https://navyakammalapally.github.io/College-Event-Management/
 
 ---
 
-## Author
-
-Developed as part of a Bootstrap Web Development Project.
